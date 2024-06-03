@@ -1,0 +1,6 @@
+
+local args = {
+    [1] = "Speaker Toilet"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Stopinteractinglol12843814891j1kjr1nnlskfnlnklasknlknlcnklascnklancklanklcnlkacnkla"):InvokeServer(unpack(args))
